@@ -1,0 +1,18 @@
+body {
+    font-weight: 400; font-family: Verdana, Geneva, Tahoma, sans-serif; color: black;
+    -webkit-text-stroke: 2px lime;
+    background-image:url(https://t4.ftcdn.net/jpg/03/17/18/67/360_F_317186728_4EWZXbXBzSQ0LL99XDGpjKRTs75MMxoG.jpg);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+}
+hr {
+    width: 30%; height: 0%;
+    border-style: dotted none none;
+    border-width: 10px;
+    border-color: darkgreen
+}
+a {
+    color: black;
+    -webkit-text-stroke: 2px violet;
+}
